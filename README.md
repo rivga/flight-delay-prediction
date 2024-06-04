@@ -1,13 +1,13 @@
 # Flight Delay Prediction
 
 # Required libraries:pandas
-** scikit-learn
+scikit-learn
 ** matplotlib
 ** seaborn
 
 
 Data Set: 
-"Kaggle page" "https://www.kaggle.com/dataset"
+<li><a href="https://www.kaggle.com/datasets/ioanagheorghiu/historical-flight-and-weather-data/data">Kaggle</a></li>
 
 
 
