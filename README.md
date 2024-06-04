@@ -1,9 +1,10 @@
 # Flight Delay Prediction
 
-# Required libraries:pandas
-scikit-learn
-** matplotlib
-** seaborn
+# Required libraries:
+<li>pandas</li>
+<li>scikit-learn</li>
+<li>matplotlib</li>
+<li>seaborn</li>
 
 
 Data Set: 
